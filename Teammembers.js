@@ -23,4 +23,17 @@ const teamMembers = [
       favoriteBook: 'Deja en paz a los muertos',
       petName: 'Nube',
     }
+    ,
+    {
+      firstName: 'Francisco',
+      surname: 'Gomez',
+      age: '21',
+      city: 'Almeria',
+      hobby: 'Play Video Games',
+      favoriteFood: 'Pizza',
+      favoriteVideoGame: 'Valorant',
+      favoriteFilm: 'El origen de los guardianes',
+      favoriteBook: 'Mouse',
+      petName: 'Coco',
+    }
   ];
